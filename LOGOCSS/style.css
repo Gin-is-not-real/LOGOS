@@ -1,0 +1,32 @@
+.root {
+    font-family: 'Open Sans';
+}
+div, span {
+    padding: 5px;
+}
+
+#chevron {
+    color: rgb(165, 65, 82);;
+    font-size: 100px;
+}
+
+.firstline {
+    font-size: 80px;
+    position: relative;
+    bottom: 5px;
+    border-bottom: 1px solid black;
+}
+
+#code {
+    background-color: rgb(165, 65, 82);
+    color: white;
+}
+
+#school {
+    display: flex;
+    font-size: 50px;
+    margin-left: 60px;
+    margin-right: 60px;
+    letter-spacing: 65px;
+    font-weight: lighter;
+}
